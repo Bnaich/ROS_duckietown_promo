@@ -1,4 +1,4 @@
-# ROS_duckitown_promo
+# ROS_duckietown_promo
 Тестовое задание для проекта Кирилла Кринкина “Duckietown”
 
 Выполнил Максим Щербаков.
