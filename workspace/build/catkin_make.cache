@@ -1,0 +1,2 @@
+run_observ_pkg
+-DCATKIN_DEVEL_PREFIX=/home/bnaich/Desktop/ROS/Duckietown_promo/workspace/devel -DCMAKE_INSTALL_PREFIX=/home/bnaich/Desktop/ROS/Duckietown_promo/workspace/install -G Unix Makefiles

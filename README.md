@@ -1,6 +1,8 @@
 # ROS_duckitown_promo
 Тестовое задание для проекта Кирилла Кринкина “Duckietown”
 
+Выполнил Максим Щербаков.
+
 Условие: 
 You have to create the following types of ROS-nodes.
 Runner              

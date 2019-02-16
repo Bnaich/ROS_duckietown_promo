@@ -1,0 +1,8 @@
+prefix=/home/bnaich/Desktop/ROS/Duckietown_promo/workspace/devel
+
+Name: run_observ_pkg
+Description: Description of run_observ_pkg
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/bnaich/Desktop/ROS/Duckietown_promo/workspace/devel/lib 
+Requires: 
